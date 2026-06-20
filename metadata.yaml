@@ -1,0 +1,9 @@
+name: weflow_bot
+display_name: WeFlow 微信适配器
+author: 秋云
+version: 1.0.0
+description: 基于 WeFlow SSE 推送 + pyautogui 的微信平台适配器，支持实时接收微信消息并通过模拟操作自动回复。
+short_desc: 通过 WeFlow 推送和 pyautogui 实现微信自动聊天
+support_platforms:
+  - weflow
+astrbot_version: ">=4.16"
